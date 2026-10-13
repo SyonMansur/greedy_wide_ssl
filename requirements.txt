@@ -1,0 +1,4 @@
+# pick matching torch and torchvision builds for cuda setup
+torch>=2.2
+torchvision>=0.17
+numpy>=1.26
