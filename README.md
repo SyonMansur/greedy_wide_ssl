@@ -6,7 +6,7 @@ https://arxiv.org/abs/2610.00753
 
 Here, we investigate how increasing network width affects greedy layer-wise self-supervised learning in relatively shallow networks. We show that sufficiently wide networks trained one layer at a time can rival end-to-end backpropagation, using Barlow Twins and SimCLR. The code includes training, kNN evaluation, and representational geometry analysis.
 
-Feel free to reach out to syonmansur@g.ucla.edu with any questions! Full instructions to reproduce all paper results are included below:
+Feel free to reach out to syonmansur@g.ucla.edu with any questions! Full instructions to run all paper experiments are included below:
 
 ## Running / Reproduction Instructions:
 
