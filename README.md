@@ -1,4 +1,4 @@
-# Width and greedy self-supervised learning
+# Increasing Width Allows Greedy Layer-wise Training to Rival End-to-End Backpropagation in Self-Supervised Learning
 
 Code for **Increasing Width Allows Greedy Layer-Wise Training to Rival End-to-End Backpropagation in Self-Supervised Learning**, by Syon Mansur and Joel Zylberberg.
 
